@@ -9,10 +9,11 @@ This project demonstrates object detection using the YOLOv3 model and OpenCV. Th
 
 ## Setup and Installation
 1. Clone the Repository:
-git clone https://github.com/tafartech/object-detection-yolov3-opencv.git
+
+git clone https://github.com/yourusername/object-detection-yolov3-opencv.git
 cd object-detection-yolov3-opencv
 
-2. Open Google Colab:
+3. Open Google Colab:
 
 * Upload the notebook to your Google Colab account.
 * Mount your Google Drive to access and store data.
